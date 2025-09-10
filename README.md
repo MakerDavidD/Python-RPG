@@ -1,0 +1,1 @@
+# I am writing a basic RPG battle sequence. Inspired by the early Final Fantasy games. Starting with some simple actions such as attacking, defending etc. I'm trying to understand the back end development and also displaying some player facing instructions using print(). 
